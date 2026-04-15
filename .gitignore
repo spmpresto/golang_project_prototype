@@ -1,0 +1,12 @@
+/postgres-data
+/.env
+/cmd/.env
+
+# Environment
+.env*
+!.env.example
+
+
+# OS
+.DS_Store
+Thumbs.db

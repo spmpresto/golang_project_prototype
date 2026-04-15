@@ -1,0 +1,1 @@
+## Golang simple prototype of the project
